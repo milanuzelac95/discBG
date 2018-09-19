@@ -1,0 +1,25 @@
+.jumbotron{
+	background-image: url(../slike/44.jpg);
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+   }
+  .jumbotron2{
+	background-image: url(../slike/belgradefromair.jpg);
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+   }
+   .jumbotron3{
+	background-image: url(../slike/44.jpg);
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+   }
+  
